@@ -1,6 +1,6 @@
 # desafio-fullcycle-docker-go
 
-Uma API simples em Go para exibir "Code.education Rocks!"
+Uma aplicação Go simples para exibir "Code.education Rocks!"
 
 ## Instalação e Execução
 ```bash
